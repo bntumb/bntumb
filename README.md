@@ -1,8 +1,6 @@
-# Hi 👋, I'm Ben-Elie
+# Hi, I'm Ben-Elie 👋
 
-🚀 **Pega Systems Architect** with strong experience in **machine Learning**, **data science**, and **full-stack development**.  
 
----
 
 ##  About Me
 
