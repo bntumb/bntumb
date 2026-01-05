@@ -1,4 +1,4 @@
-# About Me:
+
 ## About Me<br><br>I’m Ben-Elie, a Pega Systems Architect with a background in machine learning and data science. Lately, I’ve been focusing on **interaction design**, exploring how users interact with systems and how thoughtful UI/UX decisions can make complex applications feel simple and intuitive.<br><br>I enjoy experimenting with interfaces, building custom components, and learning how design, data, and technology come together to create better user experiences.<br>
 
 ## 🌐 Socials:
