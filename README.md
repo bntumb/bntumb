@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi 👋, I'm Ben-Elie
 
-<!--
-**bntumb/bntumb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Pega Systems Architect** with strong experience in **machine Learning**, **data science**, and **full-stack development**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  About Me
+
+- Pega Systems Architect
+- Interested in AI, automation, and intelligent decisioning
+- Enjoy building custom components, web apps, and ML models
+
+---
+
+## 🧰 Tech Stack
+
+**Languages**
+- Python
+- JavaScript / TypeScript
+- SQL
+
+**Frameworks & Tools**
+- Pega Platform
+- Next.js
+- Flask
+- Electron
+- Jupyter Notebook
+- Node.js
+
+**Machine Learning & Data**
+- Scikit-learn
+- Pandas / NumPy
+- Data preprocessing & feature engineering
+- Model evaluation & comparison
+
+---
+
+## 📈 GitHub Activity
+
+- Mix of academic, professional, and personal projects
+- Continuous improvement, learning and experimentation
+
+
+
+
+
