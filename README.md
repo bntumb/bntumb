@@ -1,5 +1,5 @@
 
-## About Me<br><br>I’m Ben-Elie, a Pega Systems Architect with a background in machine learning and data science. Lately, I’ve been focusing on **interaction design**, exploring how users interact with systems and how thoughtful UI/UX decisions can make complex applications feel simple and intuitive.<br><br>I enjoy experimenting with interfaces, building custom components, and learning how design, data, and technology come together to create better user experiences.<br>
+## About Me<br><br>I’m Ben-Elie, a Systems Architect with a background in machine learning and data science. Lately, I’ve been focusing on **interaction design**, exploring how users interact with systems and how thoughtful UI/UX decisions can make complex applications feel simple and intuitive.<br><br>I enjoy experimenting with interfaces, building custom components, and learning how design, data, and technology come together to create better user experiences.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bntumb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tntumb@gmail.com) 
